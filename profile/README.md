@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-    <img src="/imgs/GDSC Yonsei Univ Seoul Campus Vertical color.png" width=600>
+    <img src="/imgs/GDSC Yonsei Univ Seoul Campus Horizontal color.png" width=600>
 </div>
 
 Here is **GDSC Yonsei Seoul Campus**. \
