@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
-    <img src="/imgs/GDSC Yonsei Univ Seoul Campus Horizontal color.png" width=600>
-</div>
+<img src="/imgs/GDSC Yonsei Univ Seoul Campus Horizontal color.png" width=600>
 
 Here is **GDSC Yonsei Seoul Campus**. \
 We are now making remarkable progress with our full of knowledge and potential.
