@@ -1,2 +1,2 @@
 # .github
-Info for GDSC visitors
+Manuals for GDSC visitors
